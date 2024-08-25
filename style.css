@@ -1,0 +1,14 @@
+.flax-container
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(59, 55, 70);
+}
+.box
+{
+    background-color: blue;
+    padding: 20px;
+    margin: 20px;
+    width: 100px;
+}
